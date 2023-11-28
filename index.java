@@ -5,6 +5,5 @@ class index {
         if (h==9) {
             System.out.println(h);
         }
-        System.out.print(h);
     }
 }
